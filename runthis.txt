@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TheHeadphonesAreNeeded/MyRobloxScripts/refs/heads/main/scripthub.lua"))()
